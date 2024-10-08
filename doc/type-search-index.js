@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"NumberInput"},{"p":"<Unnamed>","l":"NumberPrinter"},{"p":"<Unnamed>","l":"NumberProcessor"},{"p":"<Unnamed>","l":"NumberSorter"}];updateSearchResults();
